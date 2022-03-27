@@ -1,0 +1,22 @@
+body
+{
+    background-color: greenyellow;
+}
+
+#draw_this
+{
+    color: red;
+}
+
+#timer
+{
+    float: right;
+    margin-right: 20px;
+    font-size: 35px;
+}
+
+#score
+{
+    margin-left: 20px;
+    font-size: 35px;
+}
